@@ -1,0 +1,316 @@
+
+*{
+	margin:0%;
+	padding:0%;
+}
+.main{
+	width:100%;
+	background-color:darkseagreen;
+	background-position:center;
+	background-size:cover;
+	height:109vh;
+}
+.navbar{
+	
+	width:100%;
+	height:76px;
+	background-color:#ffffff;
+	z-index: 1;
+	
+}
+.icon img{
+	float:right;
+	padding-right: 4%;
+	padding-top: 1%;
+	
+}
+.icon h2{
+	padding-top: 3%;
+	padding-left: 3%;
+}
+.table1{
+	 position: absolute;
+     top: 12%;
+     left: 1%;
+     width: 50%;
+    height: 55%;
+	background-color: #ffffff;
+}
+.t1{
+	position: absolute;
+     top: 8%;
+     left: 6%;
+     width: 16%;
+    height: 22%;
+	border-style:solid;
+	border-radius: 4px;
+	border-width: 2px;
+}
+.t1 img{
+	position: absolute;
+	top: 4%;
+	left: 20%;
+	
+}
+.txt1{
+	position: absolute;
+	top: 60%;
+	left: 30%;
+}
+.t2{
+	position: absolute;
+     top: 8%;
+     left: 29%;
+     width: 16%;
+    height: 22%;
+	border-style:solid;
+	border-radius: 4px;
+	border-width: 2px;
+    
+}
+.t2 img{
+	position: absolute;
+	top: 4%;
+	left: 20%;
+	
+}
+.txt2{
+	position: absolute;
+	top: 60%;
+	left: 30%;
+}
+.t3{
+	position: absolute;
+     top: 8%;
+     left: 51%;
+     width: 16%;
+    height: 22%;
+	border-style:solid;
+	border-radius: 4px;
+	border-width: 2px;
+    
+}
+.t3 img{
+	position: absolute;
+	top: 4%;
+	left: 20%;
+	
+}
+.txt3{
+	position: absolute;
+	top: 60%;
+	left: 30%;
+}
+.t4{
+	position: absolute;
+     top: 8%;
+     left: 73%;
+     width: 16%;
+    height: 22%;
+	border-style:solid;
+	border-radius: 4px;
+	border-width: 2px;
+    
+}
+.t4 img{
+	position: absolute;
+	top: 4%;
+	left: 20%;
+	
+}
+.txt4{
+	position: absolute;
+	top: 60%;
+	left: 30%;
+}
+
+.t5{
+	position: absolute;
+     top: 38%;
+     left: 6%;
+     width: 16%;
+    height: 22%;
+	border-style:solid;
+	border-radius: 4px;
+	border-width: 2px;
+	
+}
+.t5 img{
+	position: absolute;
+	top: 4%;
+	left: 20%;
+	
+}
+.txt5{
+	position: absolute;
+	top: 60%;
+	left: 30%;
+}
+.t6{
+	position: absolute;
+    top: 38%;
+     left: 29%;
+     width: 16%;
+    height: 22%;
+	border-style:solid;
+	border-radius: 4px;
+	border-width: 2px;
+    
+}
+.t6 img{
+	position: absolute;
+	top: 4%;
+	left: 20%;
+	
+}
+.txt6{
+	position: absolute;
+	top: 60%;
+	left: 30%;
+}
+.t7{
+	position: absolute;
+     top: 38%;
+     left: 51%;
+     width: 16%;
+    height: 22%;
+	border-style:solid;
+	border-radius: 4px;
+	border-width: 2px;
+    
+}
+.t7 img{
+	position: absolute;
+	top: 4%;
+	left: 20%;
+	
+}
+.txt7{
+	position: absolute;
+	top: 60%;
+	left: 30%;
+}
+.t8{
+	position: absolute;
+     top: 38%;
+     left: 73%;
+     width: 16%;
+    height: 22%;
+	border-style:solid;
+	border-radius: 4px;
+	border-width: 2px;
+    
+}
+.t8 img{
+	position: absolute;
+	top: 4%;
+	left: 20%;
+	
+}
+.txt8{
+	position: absolute;
+	top: 60%;
+	left: 30%;
+}
+.t9{
+	position: absolute;
+     top: 68%;
+     left: 6%;
+     width: 16%;
+    height: 22%;
+	border-style:solid;
+	border-radius: 4px;
+	border-width: 2px;
+	
+}
+.t9 img{
+	position: absolute;
+	top: 4%;
+	left: 20%;
+	
+}
+.txt9{
+	position: absolute;
+	top: 60%;
+	left: 30%;
+}
+.t10{
+	position: absolute;
+    top: 68%;
+     left: 29%;
+     width: 16%;
+    height: 22%;
+	border-style:solid;
+	border-radius: 4px;
+	border-width: 2px;
+    
+}
+.t10 img{
+	position: absolute;
+	top: 4%;
+	left: 20%;
+	
+}
+.txt10{
+	position: absolute;
+	top: 60%;
+	left: 30%;
+}
+.t11{
+	position: absolute;
+     top: 68%;
+     left: 51%;
+     width: 16%;
+    height: 22%;
+	border-style:solid;
+	border-radius: 4px;
+	border-width: 2px;
+    
+}
+.t11 img{
+	position: absolute;
+	top: 4%;
+	left: 20%;
+	
+}
+.txt11{
+	position: absolute;
+	top: 60%;
+	left: 30%;
+}
+.t12{
+	position: absolute;
+     top: 68%;
+     left: 73%;
+     width: 16%;
+    height: 22%;
+	border-style:solid;
+	border-radius: 4px;
+	border-width: 2px;
+    
+}
+.t12 img{
+	position: absolute;
+	top: 4%;
+	left: 20%;
+	
+}
+.txt12{
+	position: absolute;
+	top: 60%;
+	left: 30%;
+}
+.table2{
+	 position: absolute;
+     top: 12%;
+     right: 2%;
+     width: 20%;
+    height: 70%;
+	background-color: #ffffff;
+}
+.la1{
+	position: absolute;
+	left: 30%;
+	top: 2%;
+	font-size: 200%;
+}

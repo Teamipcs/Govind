@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>project page 1</title>
+<link rel="stylesheet" href="p1.css">
+
+</head>
+<body>
+<div class='main'>
+<div class='navbar'>
+<div class='icon'>
+<img src="ipcore.jpg" width="4%" height="4%"><h2>IP-Infra</h2>
+</div>
+<form action="" class="form">
+<div class="login_form">
+	<h2>Sign up</h2>
+	<label for="loginuser" class="lab1">username &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:</label>
+	<input type="email"  id="email" name="loginuser" class="in1" required><br>
+	<label for="loginpassword" class="lab2">password &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:</label>
+	<input type="password" id="password" name="password"  class="in2" required><br>
+	<button class="sub1" onclick="auth()">submit</button>
+</div>
+</form>
+
+</div>
+</div>
+
+<script>
+	function auth()
+	{
+		var email=document.getElementById("email").value;
+		var password=document.getElementById("password").value;
+		if(email=="admin@gmail.com" && password=="ipcore123")
+		{
+		
+			alert("Login Successfully");
+		} else 
+		{
+			alert("Invalid Information");
+			return;
+		}
+		
+	}
+	
+</script>
+
+</body>
+</html>
